@@ -1,2 +1,0 @@
-# ThinkingInJava1
-wewewepppppppp
