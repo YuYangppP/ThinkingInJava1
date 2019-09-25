@@ -9,7 +9,7 @@ package practice.com.three;
  */
 public class Default {
     public Default(){
-        System.out.println("Hello World!");
+        System.out.print("Hello World!");
     }
 
     public static void main(String[] args) {

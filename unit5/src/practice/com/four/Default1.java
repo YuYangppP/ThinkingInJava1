@@ -9,10 +9,10 @@ package practice.com.four;
  */
 public class Default1 {
     public Default1() {
-        System.out.println("默认构造器");
+        System.out.print("默认构造器");
     }
     public Default1(String s){
-        System.out.println(s);
+        System.out.print(s);
     }
 
     public static void main(String[] args) {

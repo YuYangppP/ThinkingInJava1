@@ -9,7 +9,7 @@ package practice.com.sixteen;
  */
 public class Test17 {
     public Test17(String s) {
-        System.out.println(s);
+        System.out.print(s);
     }
 
     public static void main(String[] args) {

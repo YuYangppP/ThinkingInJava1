@@ -19,11 +19,11 @@ public class NineTest {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Please enter a number:");
+        System.out.print("Please enter a number:");
         int k = sc.nextInt();
         NineTest f = new NineTest();
         for (int i = 0; i < k; i++) {
-            System.out.println(f.fib(i));
+            System.out.print(f.fib(i));
         }
     }
 }

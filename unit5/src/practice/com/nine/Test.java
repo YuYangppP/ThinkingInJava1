@@ -10,16 +10,16 @@ package practice.com.nine;
 public class Test {
     String s = "ss";
     public Test(String ss) {
-        System.out.println("t1:"+ss);
+        System.out.print("t1:"+ss);
         s = ss;
     }
     public Test(){
         this("my ss");
-        System.out.println("t2");
+        System.out.print("t2");
     }
 
     public void prints(){
-        System.out.println("s:"+s);
+        System.out.print("s:"+s);
     }
 
     public static void main(String[] args) {

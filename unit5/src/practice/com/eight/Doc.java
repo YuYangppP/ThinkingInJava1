@@ -10,12 +10,12 @@ package practice.com.eight;
  */
 public class Doc {
         void intubate() {
-            System.out.println("prepare patient");
+            System.out.print("prepare patient");
             laryngoscopy();
             this.laryngoscopy();
         }
         void laryngoscopy() {
-            System.out.println("use laryngoscope");
+            System.out.print("use laryngoscope");
         }
     }
 

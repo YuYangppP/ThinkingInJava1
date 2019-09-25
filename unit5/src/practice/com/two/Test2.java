@@ -10,9 +10,9 @@ package practice.com.two;
 public class Test2 {
     public static void main(String[] args) {
         Test1 test1 = new Test1();
-        System.out.println(test1.x);
-        System.out.println(test1.y);
-        System.out.println(test1.z);
+        System.out.print(test1.x);
+        System.out.print(test1.y);
+        System.out.print(test1.z);
 
     }
 }

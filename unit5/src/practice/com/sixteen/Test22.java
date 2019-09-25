@@ -27,22 +27,22 @@ public class Test22 {
     void describe(){
         switch (test21){
             case YIMAO:
-                System.out.println("一毛");
+                System.out.print("一毛");
                 break;
             case YIKUAI:
-                System.out.println("一块");
+                System.out.print("一块");
                 break;
             case WUKUAI:
-                System.out.println("五块");
+                System.out.print("五块");
                 break;
             case ERSHIKUAI:
-                System.out.println("二十块");
+                System.out.print("二十块");
                 break;
             case WUSHIKUAI:
-                System.out.println("五十块");
+                System.out.print("五十块");
                 break;
                 default:
-                    System.out.println("error");
+                    System.out.print("error");
         }
     }
 

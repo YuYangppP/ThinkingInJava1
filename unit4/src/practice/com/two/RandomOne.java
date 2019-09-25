@@ -17,11 +17,11 @@ public class RandomOne {
             int x = random1.nextInt(100);
             int y = random2.nextInt(100);
             if (x < y) {
-                System.out.println(x + "<" + y);
+                System.out.print(x + "<" + y);
             } else if (x > y) {
-                System.out.println(x + ">" + y);
+                System.out.print(x + ">" + y);
             } else {
-                System.out.println(x+"="+y);
+                System.out.print(x+"="+y);
             }
         }
     }

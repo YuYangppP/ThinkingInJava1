@@ -11,10 +11,10 @@ public class VelocityTester {
     public static void main(String[] args) {
         float d = 350.5f;
         float t = 5.5f;
-        System.out.println("距离是：" + d);
-        System.out.println("时间是：" + t);
+        System.out.print("距离是：" + d);
+        System.out.print("时间是：" + t);
         float v = VelocityCalculator.velocity(d, t);
-        System.out.println("速度是：" + v);
+        System.out.print("速度是：" + v);
     }
 
 }

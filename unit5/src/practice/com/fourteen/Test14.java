@@ -16,8 +16,8 @@ public class Test14 {
     }
 
     public static void main(String[] args) {
-        System.out.println(Test14.a);
-        System.out.println(Test14.b);
+        System.out.print(Test14.a);
+        System.out.print(Test14.b);
         //hello world
         //hello world 2
     }

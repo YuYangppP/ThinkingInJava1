@@ -16,7 +16,7 @@ public class Test15 {
 
     public static void main(String[] args) {
         Test15 test15 = new Test15();
-        System.out.println(test15.a);
+        System.out.print(test15.a);
         //hello world
     }
 }

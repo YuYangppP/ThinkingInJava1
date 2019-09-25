@@ -11,7 +11,7 @@ public class Test21t {
     public static void main(String[] args) {
         for (Test21 e : Test21.values()){
             System.out.print(e);
-            System.out.println(":" + e.ordinal());
+            System.out.print(":" + e.ordinal());
         }
     }
 }
