@@ -2,7 +2,7 @@ package practice.com.three;
 
 import java.util.Random;
 
-import static net.mindview.util.Print.print;
+import static net.mindview.util.print.print;
 
 /**
  * @author yuyang

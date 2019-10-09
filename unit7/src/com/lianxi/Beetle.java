@@ -9,7 +9,7 @@ package com.lianxi;
  */
 //: reusing/Beetle.java
 // The full process of initialization.
-import static net.mindview.util.Print.*;
+import static net.mindview.util.print.*;
 
 class Insect {
     private int i = 9;

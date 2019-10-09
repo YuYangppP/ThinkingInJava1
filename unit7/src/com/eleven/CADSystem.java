@@ -7,7 +7,7 @@ package com.eleven;
  * @Description TODO
  * @Date 2019/9/25 13:07
  */
-import static net.mindview.util.Print.*;
+import static net.mindview.util.print.*;
 
 
 class Shape {

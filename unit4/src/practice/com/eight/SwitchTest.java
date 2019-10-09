@@ -1,6 +1,6 @@
 package practice.com.eight;
 
-import static net.mindview.util.Print.print;
+import static net.mindview.util.print.print;
 
 /**
  * @author yuyang
